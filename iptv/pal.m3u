@@ -18,7 +18,7 @@ https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 #EXTINF:-1 tvg-id="Palestine Today" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="General", Palestine Today
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Holy Quran Radio Nablus" tvg-logo="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" group-title="Radio", Holy Quran Radio Nablus
+#EXTINF:-1 tvg-id="Holy Quran Radio Nablus" tvg-logo="https://quran-radio.com/storage/site/1703089607.png" group-title="Radio", Holy Quran Radio Nablus
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
 #EXTINF:-1 tvg-id="Al Madina" tvg-logo="https://i.imgur.com/NVOeM3P.png" group-title="General", Al Madina
 https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
@@ -34,17 +34,17 @@ https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-palestine/playlist.m3u8
 #EXTINF:-1 tvg-id="Wanasah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSvUZ8nrbLCh6EQIlnMje9xBB00VPsFMgL4w&s" group-title="General", Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="Undefined",Altaghier TV (1080p)
-https://194788.global.ssl.fastly.net/63c63697632705047ffda2da/live_d33349a0962a11ed907dd9e556777b63/rewind-14400.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="Undefined",Jordan Comedy (1080p)
+#EXTINF:0 tvg-country="JO" tvg-logo="https://altaghier.tv/wp-content/uploads/2023/12/logo-altaghier-tv-.png" group-title="Undefined",Altaghier TV (1080p)
+https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
+#EXTINF:0 tvg-country="JO" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/e/pn/23834/Poster.png?v=638410894235278164" group-title="Undefined",Jordan Comedy (1080p)
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="Undefined",Jordan Drama (1080p)
+#EXTINF:0 tvg-country="JO" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/Z/ul/23833/Poster.png?v=638410892598429357" group-title="Undefined",Jordan Drama (1080p)
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="Undefined",Jordan Kitchen (1080p)
+#EXTINF:0 tvg-country="JO" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/b/ZU/35660/Poster.png?v=638410891129562646" group-title="Undefined",Jordan Kitchen (1080p)
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
-#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Undefined",Palestine Al Yawm (720p)
-https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="Kids",Roya Kids Originals (1080p)
+#EXTINF:0 tvg-country="JO" tvg-logo="https://webapp.royakids.tv/static/media/logo.d771edae.png" group-title="Kids",Roya Kids
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="News",Roya News (1080p)
-https://roya-live.ercdn.net/royanews/royanews.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="https://royamediagroup.com/imgs/kitchen.png" group-title="News",Roya Kitchen
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
+#EXTINF:0 tvg-country="JO" tvg-logo="https://jordandir.com/images/screenshots/1711030162.webp" group-title="News",Roya TV
+https://ncdn.telewebion.com/iribu/live/playlist.m3u8
