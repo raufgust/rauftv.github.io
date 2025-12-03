@@ -34,3 +34,17 @@ https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-palestine/playlist.m3u8
 #EXTINF:-1 tvg-id="Wanasah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSvUZ8nrbLCh6EQIlnMje9xBB00VPsFMgL4w&s" group-title="General", Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="Undefined",Altaghier TV (1080p)
+https://194788.global.ssl.fastly.net/63c63697632705047ffda2da/live_d33349a0962a11ed907dd9e556777b63/rewind-14400.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="Undefined",Jordan Comedy (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="Undefined",Jordan Drama (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="Undefined",Jordan Kitchen (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="Undefined",Palestine Al Yawm (720p)
+https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="Kids",Roya Kids Originals (1080p)
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="" group-title="News",Roya News (1080p)
+https://roya-live.ercdn.net/royanews/royanews.m3u8?checkedby:iptvcat.com
